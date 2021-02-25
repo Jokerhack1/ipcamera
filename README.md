@@ -1,4 +1,4 @@
-به نام حق
+بسم رب هکران
 
 دستورات نصب و اجرا اسکریپت :
 
@@ -14,10 +14,10 @@ pkg install python2
 pkg install pip2
 
 
-git clone https://github.com/hoseinmohseni/ipcamera
+git clone https://github.com/Jokerhack1/ipcamera
 
 pip2 install requests
 
 cd ipcs
 
-python2 scan.py
+python2 ‌JokerHack.py
