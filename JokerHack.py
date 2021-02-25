@@ -26,15 +26,14 @@ reset = "\033[0m"
 
 def main():
     os.system('clear')
-    print("{}        ____ ").format(r)
-    print("   _[]_/____\__n_ ")
-    print("  |_____.--.__()_|")
-    print("  |I   //# \\\    |")
-    print("{}  |P   \\\__//    | ").format(w)
-    print("  |CS   '--'     | ")
+    print("_       _             _   _            _
+    | | ___ | | _____ _ __| | | | __ _  ___| | __
+ _  | |/ _ \| |/ / _ \ '__| |_| |/ _` |/ __| |/ /
+| |_| | (_) |   <  __/ |  |  _  | (_| | (__|   <
+ \___/ \___/|_|\_\___|_|  |_| |_|\__,_|\___|_|\_\") 
     print("{}  '--------------'----------{}------------------.  ").format(r,w)
-    print("{}  | {}Author  : {}HVmbl3 {}     | {}INDO{}N{}{}ESIA         | ").format(r,w,r,w,r,ir,reset,w)
-    print("{}  | {}Youtube : {}Shodiq 2701 {}| {}+62-813-6487-3762 {}|").format(r,w,w,w,lgray,w)
+    print("{}  | Author  : Joker Hack  | @Jokerhack2020bot | ").format(r,w,r,w,r,ir,reset,w)
+    print("{}  | Telegram : @jokerhacker_channel {}|Best Channel |").format(r,w,w,w,lgray,w)
     print("{}  '------------------------------------{}-------'  ").format(r,w)
     print ("  {}[ 1 ] {}Italy").format(r,w)
     print ("  {}[ 2 ] {}Indonesia").format(r,w)
